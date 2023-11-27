@@ -1,4 +1,7 @@
 # cmpe255_LM_RI
+Objective
+-
+In this short repo, we are going through and summarizing a research paper titled "Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning", which aims to use Language models to train offline reinforcement learning models, in scenarios where there is limited training data. 
 
 Relevant Links
 -
